@@ -1,0 +1,3 @@
+factor 2068
+ping -c 10 www.google.com
+whoami

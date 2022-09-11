@@ -1,0 +1,7 @@
+ls -al
+wc file.txt
+whoami
+touch hurrah.txt
+cp file.txt hurrah.txt
+diff file.txt hurrah.txt
+gcc pipe.c -o pipe.out
